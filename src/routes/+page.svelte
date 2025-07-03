@@ -226,7 +226,7 @@
                   <InteractiveHover
                     text="Resume"
                     class="w-[170px]"
-                    href="https://drive.google.com/file/d/1A-J5zCNdaxGb2tcNo75Zqy-wBZe73NRZ/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1ieLZPXa1BhbjIJsH4NzBHcFdlEtyg0Qr/view?usp=sharing"
                   ></InteractiveHover>
                   <InteractiveHover
                     text="Contact me"
