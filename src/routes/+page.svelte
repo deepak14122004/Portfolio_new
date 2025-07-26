@@ -99,7 +99,7 @@
       content: [
         "B.Tech in Computer Science and Engineering",
         "2022 - 2026",
-        "CGPA: 8.5",
+        "CGPA: 9.82",
       ],
 
       image: "/srm.jpg",
